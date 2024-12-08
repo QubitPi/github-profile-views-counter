@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/12/5 1:51 AM UTC
+			2024/12/6 1:51 AM UTC
 		</td>
 		<td>
 			4
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/12/5 1:51 AM UTC
+			2024/12/6 1:51 AM UTC
 		</td>
 		<td>
 			9
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/12/5 12:00 AM UTC
+			2024/12/6 1:51 AM UTC
 		</td>
 		<td>
 			9
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/12/5 1:51 AM UTC
+			2024/12/6 1:51 AM UTC
 		</td>
 		<td>
 			4
@@ -122,18 +122,290 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/12/5 1:51 AM UTC
+			2024/12/6 12:00 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/891270257/small/year.png" height="20"> 37
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/843976289/year.md">
+				wilhelm
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:16 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/843976289/small/year.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/891368055/year.md">
+				graph-db-import-web
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:16 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/891368055/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/849226434/year.md">
+				wilhelm-ws
+			</a>
+		</td>
+		<td>
+			2024/12/5 12:00 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/849226434/small/year.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/846824431/year.md">
+				wilhelm-data-loader
+			</a>
+		</td>
+		<td>
+			2024/12/5 12:00 AM UTC
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/846824431/small/year.png" height="20"> 222
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/855609846/year.md">
+				wilhelm-vocabulary
+			</a>
+		</td>
+		<td>
+			2024/12/5 12:00 AM UTC
+		</td>
+		<td>
+			39
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/855609846/small/year.png" height="20"> 341
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/899562849/year.md">
+				classical-hebrew-vocabulary
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/899562849/small/year.png" height="20"> 40
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/843370042/year.md">
+				nexusgraph
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/843370042/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/870659956/year.md">
+				nexusgraph-landing
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/870659956/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/772989826/year.md">
+				packer-plugin-qubitpi
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/772989826/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/868326680/year.md">
+				terraform-provider-qubitpi
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/868326680/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/771305523/year.md">
+				packer-plugin-scaffolding
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/771305523/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/861633726/year.md">
+				terraform-provider-scaffolding-framework
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:17 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/861633726/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/731460525/year.md">
+				react-template
+			</a>
+		</td>
+		<td>
+			2024/12/5 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/731460525/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/629319235/year.md">
+				neo4j-browser
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:18 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/629319235/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/489849086/year.md">
+				athena
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:18 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/489849086/small/year.png" height="20"> 35
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/668055685/year.md">
+				jersey-webservice-template
+			</a>
+		</td>
+		<td>
+			2024/12/5 12:00 AM UTC
 		</td>
 		<td>
 			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/891270257/small/year.png" height="20"> 32
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/668055685/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/781440408/year.md">
+				maven-central-release-action
+			</a>
+		</td>
+		<td>
+			2024/12/5 2:18 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/781440408/small/year.png" height="20"> 25
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/12/8 1:51 AM UTC</i></small>
+<small><i>Last updated on 2024/12/8 2:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
