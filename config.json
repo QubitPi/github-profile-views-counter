@@ -25,6 +25,7 @@
     "react-template",
     "neo4j-browser",
     "athena",
-    "jersey-webservice-template"
+    "jersey-webservice-template",
+    "maven-central-release-action"
   ]
 }
