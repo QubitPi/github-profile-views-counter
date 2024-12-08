@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2024/12/5 1:45 AM UTC
+			2024/12/6 1:45 AM UTC
 		</td>
 		<td>
 			5
@@ -51,9 +51,89 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/631185801/small/year.png" height="20"> 8
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/855627783/year.md">
+				aristotle
+			</a>
+		</td>
+		<td>
+			2024/12/5 1:51 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/855627783/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/892493054/year.md">
+				VK-45.01
+			</a>
+		</td>
+		<td>
+			2024/12/5 1:51 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/892493054/small/year.png" height="20"> 26
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/893484603/year.md">
+				alexandria
+			</a>
+		</td>
+		<td>
+			2024/12/5 12:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/893484603/small/year.png" height="20"> 87
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/767864391/year.md">
+				lamassu
+			</a>
+		</td>
+		<td>
+			2024/12/5 1:51 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/767864391/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/891270257/year.md">
+				wiktionary-data
+			</a>
+		</td>
+		<td>
+			2024/12/5 1:51 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/891270257/small/year.png" height="20"> 32
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/12/8 1:45 AM UTC</i></small>
+<small><i>Last updated on 2024/12/8 1:51 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [tiger](https://github.com/QubitPi/tiger)
-![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/large/year.png)
+### :octocat: [VK-45.01](https://github.com/QubitPi/VK-45.01)
+![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/892493054/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,7 +23,7 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>2</code>
 		</td>
 		<td>
 			<code>4</code>
@@ -34,10 +34,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>22</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/631185801/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/892493054/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/892493054/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/631185801/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/892493054/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/892493054/week.md)
 ```
 ### Header
-# tiger [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/year.md)
+# VK-45.01 [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/892493054/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/892493054/year.md)
 ```readme
-# tiger [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/year.md)
+# VK-45.01 [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/892493054/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/892493054/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

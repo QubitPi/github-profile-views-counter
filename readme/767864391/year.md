@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [tiger](https://github.com/QubitPi/tiger)
-![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/large/year.png)
+### :octocat: [lamassu](https://github.com/QubitPi/lamassu)
+![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/767864391/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/631185801/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/767864391/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/767864391/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/631185801/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/767864391/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/767864391/week.md)
 ```
 ### Header
-# tiger [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/year.md)
+# lamassu [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/767864391/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/767864391/year.md)
 ```readme
-# tiger [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/year.md)
+# lamassu [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/767864391/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/767864391/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
