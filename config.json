@@ -23,6 +23,7 @@
     "packer-plugin-scaffolding",
     "terraform-provider-scaffolding-framework",
     "react-template",
-    "neo4j-browser"
+    "neo4j-browser",
+    "athena"
   ]
 }
