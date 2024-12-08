@@ -11,6 +11,8 @@
     "lamassu",
     "wiktionary-data",
     "wilhelm",
-    "graph-db-import-web"
+    "graph-db-import-web",
+    "wilhelm-ws",
+    "wilhelm-data-loader"
   ]
 }
