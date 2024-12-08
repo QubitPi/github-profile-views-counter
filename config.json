@@ -20,6 +20,7 @@
     "nexusgraph-landing",
     "packer-plugin-qubitpi",
     "terraform-provider-qubitpi",
-    "packer-plugin-scaffolding"
+    "packer-plugin-scaffolding",
+    "terraform-provider-scaffolding-framework"
   ]
 }
