@@ -13,6 +13,7 @@
     "wilhelm",
     "graph-db-import-web",
     "wilhelm-ws",
-    "wilhelm-data-loader"
+    "wilhelm-data-loader",
+    "wilhelm-vocabulary"
   ]
 }
