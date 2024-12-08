@@ -18,6 +18,7 @@
     "classical-hebrew-vocabulary",
     "nexusgraph",
     "nexusgraph-landing",
-    "packer-plugin-qubitpi"
+    "packer-plugin-qubitpi",
+    "terraform-provider-qubitpi"
   ]
 }
