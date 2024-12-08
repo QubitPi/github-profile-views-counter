@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [QubitPi](https://github.com/QubitPi/QubitPi)
-![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/504830443/large/year.png)
+### :octocat: [tiger](https://github.com/QubitPi/tiger)
+![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>182</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>146</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>25</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>125</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>115</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>26</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>257</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>27</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>263</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>31</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>233</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>24</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>197</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>70</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2024/3/1</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>99</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2024/2/1</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>287</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>28</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>285</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,10 +155,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>23</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>288</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/504830443/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/504830443/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/631185801/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/504830443/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/504830443/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/631185801/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/week.md)
 ```
 ### Header
-# QubitPi [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/504830443/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/504830443/year.md)
+# tiger [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/year.md)
 ```readme
-# QubitPi [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/504830443/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/504830443/year.md)
+# tiger [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/631185801/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/631185801/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
