@@ -10,6 +10,7 @@
     "alexandria",
     "lamassu",
     "wiktionary-data",
-    "wilhelm"
+    "wilhelm",
+    "graph-db-import-web"
   ]
 }
