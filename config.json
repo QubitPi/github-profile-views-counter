@@ -15,6 +15,7 @@
     "wilhelm-ws",
     "wilhelm-data-loader",
     "wilhelm-vocabulary",
-    "classical-hebrew-vocabulary"
+    "classical-hebrew-vocabulary",
+    "nexusgraph"
   ]
 }
