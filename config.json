@@ -24,6 +24,7 @@
     "terraform-provider-scaffolding-framework",
     "react-template",
     "neo4j-browser",
-    "athena"
+    "athena",
+    "jersey-webservice-template"
   ]
 }
