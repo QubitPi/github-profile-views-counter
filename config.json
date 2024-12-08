@@ -22,6 +22,7 @@
     "terraform-provider-qubitpi",
     "packer-plugin-scaffolding",
     "terraform-provider-scaffolding-framework",
-    "react-template"
+    "react-template",
+    "neo4j-browser"
   ]
 }
