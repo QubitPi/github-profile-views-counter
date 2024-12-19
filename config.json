@@ -13,6 +13,7 @@
     "wilhelm",
     "graph-db-import-web",
     "wilhelm-ws",
+    "wilhelm-ws-release-definition",
     "wilhelm-data-loader",
     "wilhelm-vocabulary",
     "nexusgraph",
@@ -25,6 +26,7 @@
     "neo4j-browser",
     "athena",
     "jersey-webservice-template",
-    "maven-central-release-action"
+    "maven-central-release-action",
+    "general-relativity"
   ]
 }
