@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [graph-db-import-web](https://github.com/QubitPi/graph-db-import-web)
-![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/891368055/large/year.png)
+### :octocat: [wilhelm-ws-release-definition](https://github.com/QubitPi/wilhelm-ws-release-definition)
+![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>21</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/19 2:20 AM UTC</i></small>
+<small><i>Last updated on 2024/12/19 2:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/891368055/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/891368055/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/905150612/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/891368055/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/891368055/week.md)
+[![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/905150612/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/week.md)
 ```
 ### Header
-# graph-db-import-web [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/891368055/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/891368055/year.md)
+# wilhelm-ws-release-definition [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/year.md)
 ```readme
-# graph-db-import-web [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/891368055/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/891368055/year.md)
+# wilhelm-ws-release-definition [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

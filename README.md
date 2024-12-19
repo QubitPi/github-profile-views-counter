@@ -181,6 +181,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/905150612/year.md">
+				wilhelm-ws-release-definition
+			</a>
+		</td>
+		<td>
+			2024/12/16 2:21 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/905150612/small/year.png" height="20"> 21
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/846824431/year.md">
 				wilhelm-data-loader
 			</a>
@@ -387,9 +403,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/781440408/small/year.png" height="20"> 25
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/812870990/year.md">
+				general-relativity
+			</a>
+		</td>
+		<td>
+			2024/12/16 2:22 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/812870990/small/year.png" height="20"> 9
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/12/19 12:19 AM UTC</i></small>
+<small><i>Last updated on 2024/12/19 2:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
