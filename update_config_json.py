@@ -23,7 +23,7 @@ def main():
         "advancedMode": "false",
         "language": "en-US",
         "repository": names
-    }))
+    }, indent=4))
     f.write("\n")
     f.close()
 
