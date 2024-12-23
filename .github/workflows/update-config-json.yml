@@ -15,9 +15,9 @@
 name: Update Public Repos for View Count
 
 on:
-#  schedule:
-#    # Runs every hour
-#    - cron: '0 * * * *'
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
