@@ -1,1 +1,32 @@
-{"devMode": "false", "advancedMode": "false", "language": "en-US", "repository": ["alexandria", "arangodb-docs", "arangodb-java-driver", "Archive.org-Downloader", "aristotle", "athena", "awesome-tools", "babel-website", "behave", "Bit-Twiddling-Hacks", "buzz", "certbot", "character-detection", "circe", "couchdb", "cpython", "create-react-app", "cucumber-docs", "cypress-documentation", "discourse", "distribution", "docker-docs", "docker-install", "docker-kong", "docker-mailserver", "docker-nexus3", "docker-registry-ui", "docs-cypher", "docs.konghq.com", "docusaurus"]}
+{
+  "devMode": "false",
+  "advancedMode": "false",
+  "language": "en-US",
+  "repository": [
+    "QubitPi",
+    "tiger",
+    "aristotle",
+    "VK-45.01",
+    "alexandria",
+    "lamassu",
+    "wiktionary-data",
+    "wilhelm",
+    "graph-db-import-web",
+    "wilhelm-ws",
+    "wilhelm-ws-release-definition",
+    "wilhelm-data-loader",
+    "wilhelm-vocabulary",
+    "nexusgraph",
+    "nexusgraph-landing",
+    "packer-plugin-qubitpi",
+    "terraform-provider-qubitpi",
+    "packer-plugin-scaffolding",
+    "terraform-provider-scaffolding-framework",
+    "react-template",
+    "neo4j-browser",
+    "athena",
+    "jersey-webservice-template",
+    "maven-central-release-action",
+    "general-relativity"
+  ]
+}
