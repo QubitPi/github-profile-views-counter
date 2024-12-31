@@ -193,6 +193,7 @@
         "wilhelm-data-loader",
         "wilhelm-graphdb",
         "wilhelm-vocabulary",
+        "wilhelm-vocabulary-acceptance-tests",
         "wilhelm-ws",
         "wilhelm-ws-release-definition",
         "writethedocs"
