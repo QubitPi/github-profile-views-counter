@@ -30,6 +30,7 @@
         "docker-mailserver",
         "docker-nexus3",
         "docker-registry-ui",
+        "docker-swift-onlyone",
         "docs-cypher",
         "docs.konghq.com",
         "docusaurus",
