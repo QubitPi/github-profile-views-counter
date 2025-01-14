@@ -36,6 +36,7 @@
         "docs-cypher",
         "docs.konghq.com",
         "docusaurus",
+        "eastern-front-tests",
         "elastic-beats",
         "elastic-docs",
         "elastic-stack-docs",
