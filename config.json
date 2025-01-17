@@ -12,6 +12,7 @@
         "awesome-tools",
         "babel-website",
         "behave",
+        "bertok",
         "Bit-Twiddling-Hacks",
         "buzz",
         "certbot",
@@ -204,7 +205,6 @@
         "wilhelm-graphdb",
         "wilhelm-vocabulary",
         "wilhelm-vocabulary-acceptance-tests",
-        "wilhelm-ws",
         "wilhelm-ws-release-definition",
         "writethedocs"
     ]
