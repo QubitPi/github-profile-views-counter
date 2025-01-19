@@ -69,7 +69,6 @@
         "hashicorp-terraform",
         "hashicorp-terraform-cdk",
         "hashicorp-vault",
-        "hashistack",
         "hibernate-orm",
         "hive",
         "hive-site",
