@@ -645,6 +645,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/731460525/year.md">
+				fast-ui
+			</a>
+		</td>
+		<td>
+			2025/1/19 12:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/731460525/small/year.png" height="20"> 73
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/834027589/year.md">
 				fastapi
 			</a>
@@ -2565,22 +2581,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/731460525/year.md">
-				react-template
-			</a>
-		</td>
-		<td>
-			2025/1/19 12:00 AM UTC
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/731460525/small/year.png" height="20"> 73
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/616230075/year.md">
 				react.dev
 			</a>
@@ -3221,7 +3221,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/1/21 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/1/21 12:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
