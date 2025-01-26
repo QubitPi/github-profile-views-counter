@@ -14,6 +14,7 @@
         "babel-website",
         "behave",
         "bertok",
+        "bertok-release-definition",
         "Bit-Twiddling-Hacks",
         "buzz",
         "certbot",
@@ -203,7 +204,6 @@
         "wilhelm-graphdb",
         "wilhelm-vocabulary",
         "wilhelm-vocabulary-acceptance-tests",
-        "wilhelm-ws-release-definition",
         "writethedocs"
     ]
 }
