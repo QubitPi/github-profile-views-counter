@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [wilhelm-ws-release-definition](https://github.com/QubitPi/wilhelm-ws-release-definition)
+### :octocat: [bertok-release-definition](https://github.com/QubitPi/bertok-release-definition)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>15</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/1/26 12:41 AM UTC</i></small>
+<small><i>Last updated on 2025/1/26 6:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/905150612/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/week.md)
 ```
 ### Header
-# wilhelm-ws-release-definition [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/year.md)
+# bertok-release-definition [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/year.md)
 ```readme
-# wilhelm-ws-release-definition [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/year.md)
+# bertok-release-definition [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/905150612/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/905150612/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
