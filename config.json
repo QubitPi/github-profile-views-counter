@@ -114,7 +114,6 @@
         "logto",
         "logto-docs",
         "maven-central-release-action",
-        "maven-translation4markdown-plugin",
         "mega-mover",
         "memgraph-docs",
         "memgraph-networkx-guide",
