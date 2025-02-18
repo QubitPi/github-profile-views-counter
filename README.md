@@ -101,22 +101,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/921754199/year.md">
-				aristotle-webservice
-			</a>
-		</td>
-		<td>
-			2025/2/16 12:17 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/921754199/small/year.png" height="20"> 20
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/489849086/year.md">
 				athena
 			</a>
@@ -3205,7 +3189,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/18 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/2/18 12:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
