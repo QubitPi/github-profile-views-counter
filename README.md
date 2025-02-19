@@ -261,6 +261,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/935500697/year.md">
+				chatbot-ws
+			</a>
+		</td>
+		<td>
+			2025/2/16 6:06 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/935500697/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/510554974/year.md">
 				circe
 			</a>
@@ -3189,7 +3205,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/19 12:32 PM UTC</i></small>
+<small><i>Last updated on 2025/2/19 6:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
