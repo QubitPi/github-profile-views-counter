@@ -262,7 +262,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	<tr>
 		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/935500697/year.md">
-				chatbot-ws
+				chatbot-ws-old
 			</a>
 		</td>
 		<td>
@@ -1169,38 +1169,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/742722551/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/760172699/year.md">
-				huggingface-doc-builder
-			</a>
-		</td>
-		<td>
-			2025/2/19 12:24 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/760172699/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/759649121/year.md">
-				huggingface-transformers
-			</a>
-		</td>
-		<td>
-			2025/2/19 12:24 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/759649121/small/year.png" height="20"> 12
 		</td>
 	</tr>
 	<tr>
@@ -3205,7 +3173,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/21 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/2/21 12:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
