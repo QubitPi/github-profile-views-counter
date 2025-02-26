@@ -2405,22 +2405,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/916096690/year.md">
-				Porsche
-			</a>
-		</td>
-		<td>
-			2025/2/24 12:36 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/916096690/small/year.png" height="20"> 39
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/760413248/year.md">
 				postgres
 			</a>
@@ -3173,7 +3157,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/26 12:29 PM UTC</i></small>
+<small><i>Last updated on 2025/2/26 6:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
