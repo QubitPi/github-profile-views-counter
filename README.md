@@ -965,22 +965,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/834074419/year.md">
-				handson-ml2
-			</a>
-		</td>
-		<td>
-			2025/3/4 12:23 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/834074419/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/916390486/year.md">
 				HanLP
 			</a>
@@ -3173,7 +3157,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/6 12:29 PM UTC</i></small>
+<small><i>Last updated on 2025/3/6 6:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
