@@ -3,7 +3,6 @@
     "advancedMode": "false",
     "language": "en-US",
     "repository": [
-        "alexandria",
         "arangodb-docs",
         "arangodb-java-driver",
         "Archive.org-Downloader",
@@ -12,8 +11,6 @@
         "awesome-tools",
         "babel-website",
         "behave",
-        "bertok",
-        "bertok-release-definition",
         "Bit-Twiddling-Hacks",
         "buzz",
         "certbot",
@@ -193,11 +190,7 @@
         "wikipedia-graph",
         "WikiSQL",
         "wiktionary-data",
-        "wilhelm",
-        "wilhelm-data-loader",
         "wilhelm-graphdb",
-        "wilhelm-vocabulary",
-        "wilhelm-vocabulary-acceptance-tests",
         "writethedocs"
     ]
 }
