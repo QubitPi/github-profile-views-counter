@@ -181,22 +181,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/656066851/year.md">
-				certbot
-			</a>
-		</td>
-		<td>
-			2025/3/22 12:17 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/656066851/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/726745510/year.md">
 				character-detection
 			</a>
@@ -1317,22 +1301,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/648121545/year.md">
-				jsonwebtoken.github.io
-			</a>
-		</td>
-		<td>
-			2025/3/22 12:26 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/648121545/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/504991188/year.md">
 				jupiter
 			</a>
@@ -1473,22 +1441,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/830024292/small/year.png" height="20"> 193
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/657356312/year.md">
-				letsencrypt-website
-			</a>
-		</td>
-		<td>
-			2025/3/22 12:28 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/657356312/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -1941,22 +1893,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/568106352/year.md">
-				oauth-in-action-code
-			</a>
-		</td>
-		<td>
-			2025/3/22 12:32 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/568106352/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/766364932/year.md">
 				old-persian
 			</a>
@@ -2001,22 +1937,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/753975033/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/597978379/year.md">
-				opensource.jiaqiliu
-			</a>
-		</td>
-		<td>
-			2025/3/22 12:32 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/597978379/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -2757,22 +2677,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/753554093/year.md">
-				WikiSQL
-			</a>
-		</td>
-		<td>
-			2025/3/22 12:39 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/753554093/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/891270257/year.md">
 				wiktionary-data
 			</a>
@@ -2821,7 +2725,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/24 12:27 PM UTC</i></small>
+<small><i>Last updated on 2025/3/24 6:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
