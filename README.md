@@ -2373,6 +2373,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/954583653/year.md">
+				streamlit-authenticated-dashboard
+			</a>
+		</td>
+		<td>
+			2025/3/22 12:25 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/954583653/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/868326680/year.md">
 				terraform-provider-qubitpi
 			</a>
@@ -2581,7 +2597,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/25 6:27 AM UTC</i></small>
+<small><i>Last updated on 2025/3/25 12:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
