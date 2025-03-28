@@ -3,6 +3,7 @@
     "advancedMode": "false",
     "language": "en-US",
     "repository": [
+        "altair",
         "arangodb-docs",
         "arangodb-java-driver",
         "Archive.org-Downloader",
