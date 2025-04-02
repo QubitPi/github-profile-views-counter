@@ -2149,22 +2149,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/626681224/year.md">
-				redux-toolkit
-			</a>
-		</td>
-		<td>
-			2025/3/31 12:33 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/626681224/small/year.png" height="20"> 18
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/890194190/year.md">
 				resume
 			</a>
@@ -2613,7 +2597,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/2 6:24 AM UTC</i></small>
+<small><i>Last updated on 2025/4/2 6:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
