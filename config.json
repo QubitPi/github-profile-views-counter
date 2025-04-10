@@ -51,6 +51,7 @@
         "graphql-spec",
         "gravitational-wave-fitter",
         "gravitational-wave-quickview",
+        "gs-testing-web",
         "hadoop",
         "HanLP",
         "hashicorp-aws-github-actions",
