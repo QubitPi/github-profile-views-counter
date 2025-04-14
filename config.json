@@ -94,6 +94,7 @@
         "logstash-docs",
         "logto-docs",
         "lowdb",
+        "MailHog",
         "maven-central-release-action",
         "mega-mover",
         "memgraph-docs",
