@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [jersey-webservice-template-acceptance-tests](https://github.com/QubitPi/jersey-webservice-template-acceptance-tests)
+### :octocat: [fast-ws-acceptance-tests](https://github.com/QubitPi/fast-ws-acceptance-tests)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/736816854/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>57</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/15 12:14 PM UTC</i></small>
+<small><i>Last updated on 2025/4/17 1:55 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/736816854/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/736816854/week.md)
 ```
 ### Header
-# jersey-webservice-template-acceptance-tests [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/736816854/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/736816854/year.md)
+# fast-ws-acceptance-tests [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/736816854/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/736816854/year.md)
 ```readme
-# jersey-webservice-template-acceptance-tests [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/736816854/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/736816854/year.md)
+# fast-ws-acceptance-tests [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/736816854/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/736816854/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
