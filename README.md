@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/855627783/year.md">
-				aristotle
-			</a>
-		</td>
-		<td>
-			2025/4/15 12:17 AM UTC
-		</td>
-		<td>
-			23
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/855627783/small/year.png" height="20"> 48
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/489849086/year.md">
 				athena
 			</a>
@@ -1989,6 +1973,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/855627783/year.md">
+				pantex
+			</a>
+		</td>
+		<td>
+			2025/4/15 12:17 AM UTC
+		</td>
+		<td>
+			23
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/855627783/small/year.png" height="20"> 48
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/598910598/year.md">
 				principled-graphql
 			</a>
@@ -2613,7 +2613,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/17 2:13 AM UTC</i></small>
+<small><i>Last updated on 2025/4/17 6:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
