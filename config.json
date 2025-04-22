@@ -73,6 +73,7 @@
         "jekyll-theme-jakarta-ee",
         "jersey",
         "jersey-webservice-template-jpa-data-models",
+        "jersey.github.io",
         "jest",
         "jetty.project",
         "json-api",
