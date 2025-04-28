@@ -111,6 +111,7 @@
         "neo4j-java-driver",
         "neodash",
         "networkx",
+        "notification-ws",
         "numpy",
         "nx-guides",
         "old-persian",
