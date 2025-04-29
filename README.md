@@ -789,22 +789,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/916390486/year.md">
-				HanLP
-			</a>
-		</td>
-		<td>
-			2025/4/27 12:24 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/916390486/small/year.png" height="20"> 141
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/749369388/year.md">
 				hashicorp-aws-github-actions
 			</a>
@@ -2629,7 +2613,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/29 6:25 AM UTC</i></small>
+<small><i>Last updated on 2025/4/29 12:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
