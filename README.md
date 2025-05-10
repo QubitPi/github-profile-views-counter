@@ -85,6 +85,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/981171041/year.md">
+				arrows.app
+			</a>
+		</td>
+		<td>
+			2025/5/7 6:05 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/981171041/small/year.png" height="20"> 32
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/489849086/year.md">
 				athena
 			</a>
@@ -2613,7 +2629,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/5/10 12:25 PM UTC</i></small>
+<small><i>Last updated on 2025/5/10 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
