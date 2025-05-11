@@ -36,6 +36,7 @@
         "elastic-stack-docs",
         "elasticsearch",
         "email-ws",
+        "entity-ws",
         "fast-ui",
         "fast-ws",
         "fast-ws-acceptance-tests",
