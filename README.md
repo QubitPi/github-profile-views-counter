@@ -629,22 +629,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/888775236/year.md">
-				fork-sync
-			</a>
-		</td>
-		<td>
-			2025/5/11 12:23 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/888775236/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/812870990/year.md">
 				general-relativity
 			</a>
@@ -2165,22 +2149,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/890194190/year.md">
-				resume
-			</a>
-		</td>
-		<td>
-			2025/5/11 12:34 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/890194190/small/year.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/972526915/year.md">
 				reusable-bash-scripts
 			</a>
@@ -2645,7 +2613,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/5/13 6:27 AM UTC</i></small>
+<small><i>Last updated on 2025/5/13 12:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
