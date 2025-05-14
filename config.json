@@ -103,7 +103,6 @@
         "neo4j-browser",
         "neo4j-docs-drivers",
         "neo4j-docs-getting-started",
-        "neo4j-docs-java-reference",
         "neo4j-graph-examples-healthcare-analytics",
         "neo4j-graph-examples-movies",
         "neo4j-graph-examples-network-management",
