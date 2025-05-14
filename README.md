@@ -1621,22 +1621,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/879506778/year.md">
-				neo4j-docs-java-reference
-			</a>
-		</td>
-		<td>
-			2025/5/12 12:31 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/879506778/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/754093448/year.md">
 				neo4j-graph-examples-healthcare-analytics
 			</a>
@@ -2613,7 +2597,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/5/14 12:27 PM UTC</i></small>
+<small><i>Last updated on 2025/5/14 6:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
