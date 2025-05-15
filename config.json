@@ -3,7 +3,6 @@
     "advancedMode": "false",
     "language": "en-US",
     "repository": [
-        "altair",
         "arangodb-docs",
         "arangodb-java-driver",
         "Archive.org-Downloader",
@@ -96,7 +95,6 @@
         "lowdb",
         "MailHog",
         "maven-central-release-action",
-        "mega-mover",
         "Messier-61",
         "mieru",
         "mlflow",
