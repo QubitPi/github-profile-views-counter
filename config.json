@@ -134,6 +134,7 @@
         "redux-observable",
         "redux-toolkit",
         "reusable-bash-scripts",
+        "RNN",
         "RxJava",
         "scikit-learn",
         "screwdriver-cd-executor-docker",
