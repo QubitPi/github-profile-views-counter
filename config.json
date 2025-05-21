@@ -37,6 +37,7 @@
         "elasticsearch",
         "email-ws",
         "entity-ws",
+        "eslint-plugin-perfectionist",
         "fast-ui",
         "fast-ws",
         "fast-ws-acceptance-tests",
