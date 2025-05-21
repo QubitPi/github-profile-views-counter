@@ -12,6 +12,7 @@
         "babel-website",
         "behave",
         "Bit-Twiddling-Hacks",
+        "cadvisor",
         "chatbot-ws",
         "circe",
         "couchdb",
