@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [entity-ws](https://github.com/QubitPi/entity-ws)
+### :octocat: [Kugelblitz](https://github.com/QubitPi/Kugelblitz)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/971434806/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2025/5/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>285</code>
+			<code>354</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/5/22 12:21 AM UTC</i></small>
+<small><i>Last updated on 2025/5/22 6:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/971434806/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/971434806/week.md)
 ```
 ### Header
-# entity-ws [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/971434806/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/971434806/year.md)
+# Kugelblitz [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/971434806/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/971434806/year.md)
 ```readme
-# entity-ws [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/971434806/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/971434806/year.md)
+# Kugelblitz [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/971434806/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/971434806/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
