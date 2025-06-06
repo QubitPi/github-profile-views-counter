@@ -197,22 +197,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/996844955/year.md">
-				cambridge-data-mining-and-machine-learning-slides
-			</a>
-		</td>
-		<td>
-			2025/6/3 12:19 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/996844955/small/year.png" height="20"> 11
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/510554974/year.md">
 				circe
 			</a>
@@ -289,6 +273,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/636494361/small/year.png" height="20"> 33
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/996844955/year.md">
+				data-mining
+			</a>
+		</td>
+		<td>
+			2025/6/4 12:19 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/996844955/small/year.png" height="20"> 11
 		</td>
 	</tr>
 	<tr>
@@ -821,18 +821,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/970838865/year.md">
-				handson-ml2
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/997152375/year.md">
+				handson-ml3
 			</a>
 		</td>
 		<td>
-			2025/6/4 12:23 AM UTC
+			2025/6/3 6:11 AM UTC
 		</td>
 		<td>
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/970838865/small/year.png" height="20"> 4
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/997152375/small/year.png" height="20"> 19
 		</td>
 	</tr>
 	<tr>
@@ -2565,7 +2565,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/6 12:39 AM UTC</i></small>
+<small><i>Last updated on 2025/6/6 6:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

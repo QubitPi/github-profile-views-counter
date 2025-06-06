@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [cambridge-data-mining-and-machine-learning-slides](https://github.com/QubitPi/cambridge-data-mining-and-machine-learning-slides)
+### :octocat: [data-mining](https://github.com/QubitPi/data-mining)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/996844955/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>22</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/6/6 12:19 AM UTC</i></small>
+<small><i>Last updated on 2025/6/6 6:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/996844955/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/996844955/week.md)
 ```
 ### Header
-# cambridge-data-mining-and-machine-learning-slides [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/996844955/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/996844955/year.md)
+# data-mining [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/996844955/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/996844955/year.md)
 ```readme
-# cambridge-data-mining-and-machine-learning-slides [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/996844955/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/996844955/year.md)
+# data-mining [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/996844955/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/996844955/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
