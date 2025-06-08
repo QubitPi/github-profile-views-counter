@@ -148,6 +148,7 @@
         "screwdriver-cd-template-validator",
         "spock-doc",
         "sqlstyle.guide",
+        "storybook",
         "streamlit-authenticated-dashboard",
         "terraform-provider-qubitpi",
         "terraform-provider-scaffolding-framework",
