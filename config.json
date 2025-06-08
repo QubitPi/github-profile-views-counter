@@ -50,6 +50,7 @@
         "graphgpt-docker",
         "graphql-java-page",
         "graphql-spec",
+        "graphrag",
         "gravitational-wave-fitter",
         "gravitational-wave-quickview",
         "hadoop",
