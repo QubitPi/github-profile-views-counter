@@ -837,22 +837,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/997152375/year.md">
-				handson-ml3
-			</a>
-		</td>
-		<td>
-			2025/6/7 12:24 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/997152375/small/year.png" height="20"> 38
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/749369388/year.md">
 				hashicorp-aws-github-actions
 			</a>
@@ -1473,6 +1457,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/670849008/small/year.png" height="20"> 83
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/997152375/year.md">
+				machine-learning
+			</a>
+		</td>
+		<td>
+			2025/6/7 12:24 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/997152375/small/year.png" height="20"> 38
 		</td>
 	</tr>
 	<tr>
@@ -2597,7 +2597,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/9 12:26 PM UTC</i></small>
+<small><i>Last updated on 2025/6/9 6:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

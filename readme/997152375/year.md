@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [handson-ml3](https://github.com/QubitPi/handson-ml3)
+### :octocat: [machine-learning](https://github.com/QubitPi/machine-learning)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/997152375/large/year.png)
 
 <details>
@@ -26,7 +26,7 @@
 			<code>4</code>
 		</td>
 		<td>
-			<code>109</code>
+			<code>114</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/6/9 12:13 PM UTC</i></small>
+<small><i>Last updated on 2025/6/9 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/997152375/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/997152375/week.md)
 ```
 ### Header
-# handson-ml3 [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/997152375/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/997152375/year.md)
+# machine-learning [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/997152375/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/997152375/year.md)
 ```readme
-# handson-ml3 [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/997152375/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/997152375/year.md)
+# machine-learning [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/997152375/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/997152375/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
