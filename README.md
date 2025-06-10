@@ -293,6 +293,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/999284880/year.md">
+				diataxis-documentation-framework
+			</a>
+		</td>
+		<td>
+			2025/6/7 6:07 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/999284880/small/year.png" height="20"> 15
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/832507316/year.md">
 				distribution
 			</a>
@@ -1377,6 +1393,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/830024292/small/year.png" height="20"> 285
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/999278556/year.md">
+				learn-graphrag
+			</a>
+		</td>
+		<td>
+			2025/6/7 6:15 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/999278556/small/year.png" height="20"> 72
 		</td>
 	</tr>
 	<tr>
@@ -2597,7 +2629,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/10 12:39 AM UTC</i></small>
+<small><i>Last updated on 2025/6/10 6:24 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
