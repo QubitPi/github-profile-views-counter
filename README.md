@@ -506,7 +506,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/6/9 12:14 PM UTC
+			2025/6/10 12:14 PM UTC
 		</td>
 		<td>
 			1
@@ -1402,7 +1402,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/6/9 12:20 PM UTC
+			2025/6/10 12:20 PM UTC
 		</td>
 		<td>
 			0
@@ -1482,7 +1482,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/6/9 12:21 PM UTC
+			2025/6/10 12:21 PM UTC
 		</td>
 		<td>
 			0
@@ -2421,6 +2421,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1000973992/year.md">
+				spring-ai
+			</a>
+		</td>
+		<td>
+			2025/6/9 7:14 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1000973992/small/year.png" height="20"> 37
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/738356398/year.md">
 				sqlstyle.guide
 			</a>
@@ -2693,7 +2709,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/12 12:30 PM UTC</i></small>
+<small><i>Last updated on 2025/6/12 7:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
