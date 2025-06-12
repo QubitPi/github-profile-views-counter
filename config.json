@@ -153,6 +153,7 @@
         "screwdriver-cd-template-main",
         "screwdriver-cd-template-validator",
         "spock-doc",
+        "spring-ai",
         "sqlstyle.guide",
         "storybook",
         "streamlit-authenticated-dashboard",
