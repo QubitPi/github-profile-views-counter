@@ -121,6 +121,7 @@
         "old-persian",
         "ollama",
         "openai-spinningup",
+        "openml-docs",
         "openstack-manuals",
         "openstack-nova",
         "openstack-python-swiftclient",
