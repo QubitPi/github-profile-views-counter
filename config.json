@@ -165,6 +165,7 @@
         "testcontainers-java",
         "testing-library-docs",
         "tiger",
+        "traefik",
         "typedoc-site",
         "TypeScript-Website",
         "ubuntu-server-documentation",
