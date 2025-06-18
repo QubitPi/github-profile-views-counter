@@ -778,13 +778,29 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/6/15 12:15 PM UTC
+			2025/6/16 12:15 PM UTC
 		</td>
 		<td>
 			1
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1004234985/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1004333083/year.md">
+				gradle
+			</a>
+		</td>
+		<td>
+			2025/6/15 6:11 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1004333083/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -2634,7 +2650,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/6/15 12:31 PM UTC
+			2025/6/16 12:31 PM UTC
 		</td>
 		<td>
 			1
@@ -2789,7 +2805,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/18 12:32 PM UTC</i></small>
+<small><i>Last updated on 2025/6/18 6:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
