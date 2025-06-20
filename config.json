@@ -54,6 +54,7 @@
         "glassfish-hk2",
         "golang-website",
         "gradle",
+        "gradle-docs",
         "graphgpt-docker",
         "graphql-java-page",
         "graphql-spec",
