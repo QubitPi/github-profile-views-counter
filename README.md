@@ -842,7 +842,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/6/17 12:14 PM UTC
+			2025/6/18 12:14 PM UTC
 		</td>
 		<td>
 			1
@@ -1473,6 +1473,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/689248516/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1005649147/year.md">
+				kotlin-web-site
+			</a>
+		</td>
+		<td>
+			2025/6/17 6:17 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1005649147/small/year.png" height="20"> 65
 		</td>
 	</tr>
 	<tr>
@@ -2853,7 +2869,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/20 12:35 PM UTC</i></small>
+<small><i>Last updated on 2025/6/20 6:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
