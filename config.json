@@ -48,6 +48,7 @@
         "fastapi",
         "Fiore",
         "general-relativity",
+        "github-actions-docker-builds-visualization",
         "github-profile-views-counter",
         "github-repo-pins",
         "glassfish-hk2",
