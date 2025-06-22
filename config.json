@@ -69,6 +69,7 @@
         "hashicorp-terraform",
         "hashicorp-vault",
         "hashicorp-ws",
+        "hbase",
         "hibernate-orm",
         "hive",
         "hive-site",
