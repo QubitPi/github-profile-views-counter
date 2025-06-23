@@ -4,6 +4,7 @@
     "language": "en-US",
     "repository": [
         "3d-force-graph",
+        "ansible-docs",
         "arangodb-docs",
         "arangodb-java-driver",
         "Archive.org-Downloader",
@@ -15,7 +16,6 @@
         "Bit-Twiddling-Hacks",
         "cadvisor",
         "certbot",
-        "chef-docs",
         "circe",
         "couchdb",
         "cpython",
