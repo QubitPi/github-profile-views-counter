@@ -64,6 +64,7 @@
         "gravitational-wave-fitter",
         "gravitational-wave-quickview",
         "hadoop",
+        "hadoop-latin",
         "hashicorp-aws-github-actions",
         "hashicorp-consul",
         "hashicorp-dev-portal",
