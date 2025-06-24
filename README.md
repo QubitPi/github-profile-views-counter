@@ -245,22 +245,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/510554974/year.md">
-				circe
-			</a>
-		</td>
-		<td>
-			2025/6/22 6:07 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/510554974/small/year.png" height="20"> 4
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/733378219/year.md">
 				couchdb
 			</a>
@@ -997,6 +981,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/510554974/year.md">
+				hadoop-latin
+			</a>
+		</td>
+		<td>
+			2025/6/22 6:07 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/510554974/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/749369388/year.md">
 				hashicorp-aws-github-actions
 			</a>
@@ -1665,6 +1665,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/829215744/small/year.png" height="20"> 122
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1007465722/year.md">
+				LlamaIndex-chat-ui
+			</a>
+		</td>
+		<td>
+			2025/6/21 6:18 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1007465722/small/year.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
@@ -2917,7 +2933,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/24 12:40 AM UTC</i></small>
+<small><i>Last updated on 2025/6/24 6:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
