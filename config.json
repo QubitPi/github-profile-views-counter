@@ -38,6 +38,7 @@
         "druid-docs",
         "elastic-beats",
         "elastic-docs",
+        "elastic-docs-builder",
         "elastic-stack-docs",
         "elasticsearch",
         "email-ws",
