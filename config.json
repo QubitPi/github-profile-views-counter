@@ -46,6 +46,7 @@
         "fast-ws",
         "fast-ws-acceptance-tests",
         "fastapi",
+        "favycon",
         "Fiore",
         "general-relativity",
         "github-actions-docker-builds-visualization",
