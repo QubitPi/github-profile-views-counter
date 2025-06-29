@@ -108,6 +108,7 @@
         "logstash",
         "logstash-docs",
         "logto-docs",
+        "Macan",
         "machine-learning",
         "MailHog",
         "maven-central-release-action",
