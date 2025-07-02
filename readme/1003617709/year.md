@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [hashicorp-ws](https://github.com/QubitPi/hashicorp-ws)
+### :octocat: [Henschel](https://github.com/QubitPi/Henschel)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/1003617709/large/year.png)
 
 <details>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>30</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/7/2 12:16 PM UTC</i></small>
+<small><i>Last updated on 2025/7/2 6:17 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/1003617709/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/1003617709/week.md)
 ```
 ### Header
-# hashicorp-ws [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/1003617709/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/1003617709/year.md)
+# Henschel [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/1003617709/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/1003617709/year.md)
 ```readme
-# hashicorp-ws [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/1003617709/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/1003617709/year.md)
+# Henschel [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/1003617709/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/1003617709/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
