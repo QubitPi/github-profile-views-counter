@@ -4,6 +4,7 @@
     "language": "en-US",
     "repository": [
         "3d-force-graph",
+        "ankidroiddocs",
         "ansible-docs",
         "arangodb-docs",
         "arangodb-java-driver",
@@ -96,6 +97,7 @@
         "learn-graphrag",
         "leidenalg",
         "lexical",
+        "lexitheras",
         "linuxserver-documentation",
         "llama_index",
         "logstash",
