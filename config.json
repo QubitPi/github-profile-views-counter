@@ -128,7 +128,6 @@
         "packer-plugin-qubitpi",
         "packer-plugin-scaffolding",
         "pandas",
-        "poetry",
         "principia",
         "progit2",
         "PyMuPDF",
