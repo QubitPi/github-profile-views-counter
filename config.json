@@ -107,6 +107,7 @@
         "maven-central-release-action",
         "mieru",
         "mlflow",
+        "neo4j-browser",
         "neo4j-docs-drivers",
         "neo4j-graph-examples-healthcare-analytics",
         "neo4j-graph-examples-movies",
