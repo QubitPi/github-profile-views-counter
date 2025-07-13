@@ -4,6 +4,7 @@
     "language": "en-US",
     "repository": [
         "3d-force-graph",
+        "angular-rpg",
         "ankidroiddocs",
         "ansible-docs",
         "arangodb-docs",
