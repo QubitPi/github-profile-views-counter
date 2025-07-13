@@ -1,6 +1,6 @@
 ## [🔙 github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter)
 
-### :octocat: [wilhelm-vocabulary](https://github.com/QubitPi/wilhelm-vocabulary)
+### :octocat: [Antiqua](https://github.com/QubitPi/Antiqua)
 ![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/855609846/large/year.png)
 
 <details>
@@ -17,6 +17,50 @@
 		<th>
 			Count
 		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/7/1</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+		<td>
+			<code>22</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/6/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/5/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -117,54 +161,10 @@
 			<code>0</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/6/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/5/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/4/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2024/3/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/3/24 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/7/13 12:06 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of github-profile-views-counter](https://github.com/QubitPi/github-profile-views-counter/blob/master/svg/855609846/badge.svg)](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/855609846/week.md)
 ```
 ### Header
-# wilhelm-vocabulary [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/855609846/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/855609846/year.md)
+# Antiqua [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/855609846/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/855609846/year.md)
 ```readme
-# wilhelm-vocabulary [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/855609846/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/855609846/year.md)
+# Antiqua [<img alt="Image of github-profile-views-counter" src="https://github.com/QubitPi/github-profile-views-counter/blob/master/graph/855609846/small/year.png" height="20">](https://github.com/QubitPi/github-profile-views-counter/blob/master/readme/855609846/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

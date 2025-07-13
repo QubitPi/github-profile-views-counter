@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1018852158/year.md">
+				angular-rpg
+			</a>
+		</td>
+		<td>
+			2025/7/10 12:06 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1018852158/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1015396969/year.md">
 				ankidroiddocs
 			</a>
@@ -65,6 +81,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1006812009/small/year.png" height="20"> 83
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/855609846/year.md">
+				Antiqua
+			</a>
+		</td>
+		<td>
+			2025/7/11 12:06 PM UTC
+		</td>
+		<td>
+			149
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/855609846/small/year.png" height="20"> 1016
 		</td>
 	</tr>
 	<tr>
@@ -2549,7 +2581,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/13 6:24 AM UTC</i></small>
+<small><i>Last updated on 2025/7/13 12:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
