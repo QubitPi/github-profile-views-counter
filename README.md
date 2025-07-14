@@ -1189,6 +1189,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1019226397/year.md">
+				isort
+			</a>
+		</td>
+		<td>
+			2025/7/11 6:15 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/1019226397/small/year.png" height="20"> 47
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/777556933/year.md">
 				jakartaee-persistence
 			</a>
@@ -2565,7 +2581,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/14 12:39 AM UTC</i></small>
+<small><i>Last updated on 2025/7/14 6:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
