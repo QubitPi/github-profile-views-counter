@@ -61,6 +61,7 @@
         "graphql-java-page",
         "graphql-spec",
         "graphrag",
+        "GraphRAG-Local-UI",
         "gravitational-wave-fitter",
         "gravitational-wave-quickview",
         "gutendex",
