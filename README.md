@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/830024292/year.md">
+				ai-blogs
+			</a>
+		</td>
+		<td>
+			2025/8/1 12:00 AM UTC
+		</td>
+		<td>
+			86
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/830024292/small/year.png" height="20"> 589
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/1018852158/year.md">
 				angular-rpg
 			</a>
@@ -1541,22 +1557,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/830024292/year.md">
-				leadership-blogs
-			</a>
-		</td>
-		<td>
-			2025/8/1 12:00 AM UTC
-		</td>
-		<td>
-			86
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/QubitPi/github-profile-views-counter/raw/master/graph/830024292/small/year.png" height="20"> 589
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/QubitPi/github-profile-views-counter/tree/master/readme/999278556/year.md">
 				learn-graphrag
 			</a>
@@ -2613,7 +2613,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/3 12:26 PM UTC</i></small>
+<small><i>Last updated on 2025/8/3 6:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
