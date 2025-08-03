@@ -4,6 +4,7 @@
     "language": "en-US",
     "repository": [
         "3d-force-graph",
+        "ai-blogs",
         "angular-rpg",
         "ankidroiddocs",
         "ansible-documentation",
@@ -98,7 +99,6 @@
         "kotlin-docs",
         "Kugelblitz",
         "lamassu",
-        "leadership-blogs",
         "learn-graphrag",
         "leidenalg",
         "lexical",
